@@ -1,0 +1,14 @@
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\bin\Debug\net8.0\HitachiSpaceRoute.exe
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\bin\Debug\net8.0\HitachiSpaceRoute.deps.json
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\bin\Debug\net8.0\HitachiSpaceRoute.runtimeconfig.json
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\bin\Debug\net8.0\HitachiSpaceRoute.dll
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\bin\Debug\net8.0\HitachiSpaceRoute.pdb
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\HitachiSpaceRoute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\HitachiSpaceRoute.AssemblyInfoInputs.cache
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\HitachiSpaceRoute.AssemblyInfo.cs
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\HitachiSpaceRoute.csproj.CoreCompileInputs.cache
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\HitachiSpaceRoute.dll
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\refint\HitachiSpaceRoute.dll
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\HitachiSpaceRoute.pdb
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\HitachiSpaceRoute.genruntimeconfig.cache
+C:\Users\Hringald\Desktop\HitachiSpaceRoute\HitachiSpaceRoute\obj\Debug\net8.0\ref\HitachiSpaceRoute.dll
